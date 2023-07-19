@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [# **한컴 타자 연습**](https://www.hancomtaja.com/)
 
+[# 영타 타자 연습] (https://www.speedcoder.net/)
+
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
 - ⚡ Fun fact: ...
