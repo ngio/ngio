@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 [# 영타 타자 연습](https://www.speedcoder.net/)
 
+[Don’t look back.](https://medium.com/@Schwarzenegger/dont-look-back-1355725d01a)
+
+
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
 - ⚡ Fun fact: ...
