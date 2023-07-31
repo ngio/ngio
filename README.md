@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 [Don’t look back.](https://medium.com/@Schwarzenegger/dont-look-back-1355725d01a)
 
+[﻿StackoverFlow trend 2023](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies)
 
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
