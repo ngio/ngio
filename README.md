@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 2023-07-25 先義後利, 自利利他
 
-2023-08-03 [피드백과 피드포워드](../../feedback_feedforword.md)
+2023-08-03 [피드백과 피드포워드](../feedback_feedforword.md)
 
 
 - ⚡ Fun fact: ...
