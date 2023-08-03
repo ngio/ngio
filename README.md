@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 [﻿StackoverFlow trend 2023](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies)
 
+[vscode 단축키](../mainVSCODE_shortkey.txt)
+
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
 2023-07-25 先義後利, 自利利他
