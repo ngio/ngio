@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 2023-08-03 [피드백과 피드포워드](../main/feedback_feedforword.md)
 
+2023-08-08 경험없이 세상에 나가는 것은 무기 없이 전장에 나가는 것과 같다. 
+
 
 - ⚡ Fun fact: ...
 
