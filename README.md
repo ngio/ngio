@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="./img/python-logo.png"  >  
+<img src="./img/python-logo-generic.svg"  >  
 
 <!--
 **ngio/ngio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
