@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 [vscode 단축키](../mainVSCODE_shortkey.txt)
 
+[파이썬이 인기 있는 이유](https://github.com/ngio/python_study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4_%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94_%EC%9D%B4%EC%9C%A0.txt)
+
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
 2023-07-25 先義後利, 自利利他
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
 2023-08-03 [피드백과 피드포워드](../main/feedback_feedforword.md)
 
 2023-08-08 경험없이 세상에 나가는 것은 무기 없이 전장에 나가는 것과 같다. 
+
 
 
 - ⚡ Fun fact: ...
