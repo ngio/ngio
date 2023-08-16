@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 2023-08-08 경험없이 세상에 나가는 것은 무기 없이 전장에 나가는 것과 같다. 
 
+2023-08-16 Frontend Developer https://roadmap.sh/frontend
 
 
 - ⚡ Fun fact: ...
