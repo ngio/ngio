@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ngio&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=black"/>
+<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=black"/>
+<img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=black"/>
+<img src="https://img.shields.io/badge/qt-41CD52?style=flat-square&logo=qt&logoColor=black"/>
  
 
 
