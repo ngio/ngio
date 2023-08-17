@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ngio&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black"/>
+ 
+
+
 
  
 [Open Source Apps in 2023](../../../Flutter_Dart/blob/main/Top_10_Most_Popular_Flutter_Open_Source_Apps_in_2023.md) => [Direct link ](https://github.com/ngio/Flutter_Dart/blob/main/Top_10_Most_Popular_Flutter_Open_Source_Apps_in_2023.md)
