@@ -30,6 +30,7 @@ https://shields.io/badges
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=black"/>
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=black"/>
 <img src="https://img.shields.io/badge/qt-41CD52?style=flat-square&logo=qt&logoColor=black"/>
+<img src="https://img.shields.io/badge/frontendmentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=black"/>
  
 <br><br>
 
