@@ -52,6 +52,10 @@ https://shields.io/badges
 
 [🐍파이썬이 인기 있는 이유🐍](https://github.com/ngio/python_study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4_%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94_%EC%9D%B4%EC%9C%A0.txt)
 
+## 개발 API 문서 모음 : https://devdocs.io/
+## 정규식을 화면에 보여주는 사이트  : https://jex.im/regulex/ 
+
+
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
 2023-07-25 先義後利, 自利利他
