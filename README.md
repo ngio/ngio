@@ -57,7 +57,11 @@ https://shields.io/badges
 
 <br>
 
-:[#유퀴즈 "자책하지 마세요" 정신과 의사가 말하는 가장 좋은 위로 방법, 우울감을 나누는 문화의 중요성](https://www.youtube.com/watch?v=B8oRH3PBbyg)
+[사람은 고쳐 쓰는 게 아니야! ](https://namu.wiki/w/%EC%82%AC%EB%9E%8C%EC%9D%80%20%EA%B3%A0%EC%B3%90%20%EC%93%B0%EB%8A%94%20%EA%B2%8C%20%EC%95%84%EB%8B%88%EB%8B%A4)
+
+[﻿호의가 계속되면은, 그게 권리인 줄 알아요.](https://youtu.be/EcTKvwthsMU)
+
+[#유퀴즈 "자책하지 마세요" 정신과 의사가 말하는 가장 좋은 위로 방법, 우울감을 나누는 문화의 중요성](https://www.youtube.com/watch?v=B8oRH3PBbyg)
 
 <br>
 
