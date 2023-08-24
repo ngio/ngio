@@ -55,6 +55,11 @@ https://shields.io/badges
 ## 개발 API 문서 모음 : https://devdocs.io/
 ## 정규식을 화면에 보여주는 사이트  : https://jex.im/regulex/ 
 
+<br>
+
+:[#유퀴즈 "자책하지 마세요" 정신과 의사가 말하는 가장 좋은 위로 방법, 우울감을 나누는 문화의 중요성](https://www.youtube.com/watch?v=B8oRH3PBbyg)
+
+<br>
 
 안전한 길이 가장 위험한 길이다. 2023-07-17
 
