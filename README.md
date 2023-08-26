@@ -75,5 +75,6 @@ https://shields.io/badges
 
 2023-08-16 Frontend Developer https://roadmap.sh/frontend
 
+Dash.
 
 
