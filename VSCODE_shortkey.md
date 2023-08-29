@@ -23,7 +23,7 @@
 <br> Ctrl + Shift + R : 코드를 함수나 변수로 감싸주는 기능 (리팩토링)
 <br> Ctrl + Shift + k / Ctrl + x : 한줄 삭제
 
-## Ctrl + Shift + L : 같은단어 전체 선택
+# Ctrl + Shift + L : 같은단어 전체 선택
 
 <br> 
 <br> Alt + Click : 멀티 커서
