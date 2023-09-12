@@ -66,6 +66,7 @@
 <br> Ctrl + Shift + K : 현재라인의 코드 삭제
 <br> Ctrl + . or F12 : 코드 정의 찾기
 <br> Shift + F12 : 모든 참조 찾기
+<br> Shift + Alt + F : 줄 맞추기 Code Formatting
 <br> Ctrl + K, Ctrl + F : 소스코드 정렬
 <br> F8 : 소스코드 경고 또는 오류 찾기
 <br> Alt + 드래그 : 드래그 된 라인 한번에 수정하기
