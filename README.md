@@ -42,7 +42,7 @@ https://shields.io/badges
 
 [# 영타 타자 연습](https://www.speedcoder.net/)
 
-[Don’t look back.](./Donot_look_Back.md)
+[Don’t look back.](./Donot_look_Back.md)   [부정적인 말을 끝내세요 Terminate negativity](https://medium.com/@Schwarzenegger/terminate-negativity-fea2c77780a4)
 
 [﻿StackoverFlow trend 2023](https://survey.stackoverflow.co/2023/#technology-most-popular-technologies)
 
