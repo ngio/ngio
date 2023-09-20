@@ -50,6 +50,7 @@ https://shields.io/badges
 
 [한문 공부 천자문_千字文_전문](../main/천자문_千字文_전문.txt)
 
+[파이썬 알고리즘~](/python_study/tree/main/Algorithm)
 
 [🐍파이썬이 인기 있는 이유🐍](https://github.com/ngio/python_study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4_%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94_%EC%9D%B4%EC%9C%A0.txt)
 
@@ -57,6 +58,8 @@ https://shields.io/badges
 ## 정규식을 화면에 보여주는 사이트  : https://jex.im/regulex/ 
 
 <br>
+
+[아무것도모른다_영화_강릉](https://www.youtube.com/watch?v=bC1pW9X8Qa8)
 
 [사람은 고쳐 쓰는 게 아니야! ](https://namu.wiki/w/%EC%82%AC%EB%9E%8C%EC%9D%80%20%EA%B3%A0%EC%B3%90%20%EC%93%B0%EB%8A%94%20%EA%B2%8C%20%EC%95%84%EB%8B%88%EB%8B%A4)
 
