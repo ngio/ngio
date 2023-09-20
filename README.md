@@ -50,7 +50,7 @@ https://shields.io/badges
 
 [한문 공부 천자문_千字文_전문](../main/천자문_千字文_전문.txt)
 
-[파이썬 알고리즘~](../python_study/Algorithm/)
+[파이썬 알고리즘~](/ngio/python_study/blob/main/Algorithm/README.md)
 
 [🐍파이썬이 인기 있는 이유🐍](https://github.com/ngio/python_study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4_%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94_%EC%9D%B4%EC%9C%A0.txt)
 
