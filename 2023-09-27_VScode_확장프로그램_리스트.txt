@@ -1,0 +1,19 @@
+2023-09-27
+
+사용 중인 VScode 확장프로그램 공유합니다. 
+
+Classic ASP Syntaxes and Snippets
+Color Highlight
+Javascript (ES6) code snippets
+Korean Language pack for Visual Studio Code
+Material Icon Theme
+Material Theme
+Peacock
+Prettier - Color formatter
+saveBackup
+
+
+
+
+
+
