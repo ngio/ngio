@@ -2,15 +2,35 @@
 
 사용 중인 VScode 확장프로그램 공유합니다. 
 
+https://marketplace.visualstudio.com/vscode
+
 Classic ASP Syntaxes and Snippets
+https://marketplace.visualstudio.com/items?itemName=jtjoo.classic-asp-html
+
 Color Highlight
+https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+
 Javascript (ES6) code snippets
+https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+
 Korean Language pack for Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko
+
 Material Icon Theme
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
 Material Theme
+https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
+
 Peacock
+https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+
 Prettier - Color formatter
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
 saveBackup
+https://marketplace.visualstudio.com/items?itemName=purplestone.savebackup
+
 
 
 
