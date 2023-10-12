@@ -60,7 +60,7 @@ https://shields.io/badges
 
 [자바스크립트 코딩 스타일 : https://ko.javascript.info/coding-style](https://ko.javascript.info/coding-style) 
 
-<img srd="https://github.com/ngio/jguery_not_yet/blob/master/javascript_Coding_style.png"  style="width:100px;"  >
+<img src="https://github.com/ngio/jguery_not_yet/blob/master/javascript_Coding_style.png"  style="width:100px;"  >
 
 <br>
 
