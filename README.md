@@ -33,6 +33,7 @@ https://shields.io/badges
 <img src="https://img.shields.io/badge/frontendmentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=black"/>
  
 <br><br>
+---
 
 [Apple Event - September 12](https://www.youtube.com/watch?v=ZiP1l7jlIIA&t=66s)
  
@@ -49,6 +50,8 @@ https://shields.io/badges
 [공통 마크다운 markdown 작성법](https://github.com/ngio/python_study/blob/main/how-to-write-by-markdown.md)
 
 ## [vscode 단축키](../main/VSCODE_shortkey.md)
+
+___
 
 [한문 공부 천자문_千字文_전문](../main/천자문_千字文_전문.txt)
 
@@ -74,6 +77,7 @@ https://shields.io/badges
 
 [#유퀴즈 "자책하지 마세요" 정신과 의사가 말하는 가장 좋은 위로 방법, 우울감을 나누는 문화의 중요성](https://www.youtube.com/watch?v=B8oRH3PBbyg)
 
+***
 <br>
 
 안전한 길이 가장 위험한 길이다. 2023-07-17
