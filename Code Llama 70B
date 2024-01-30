@@ -1,0 +1,8 @@
+
+https://www.theverge.com/2024/1/29/24055011/meta-llama2-code-generator-generative-ai
+
+
+코드 생성 AI 모델인 Code Llama 70B 에 대한 Meta의 최신 업데이트는 아직까지 "가장 크고 성능이 뛰어난 모델"입니다. Code Llama 도구는 8월에 출시되었으며 연구 및 상업용 모두 무료입니다. Meta의 AI 블로그 게시물에 따르면 Code Llama 70B는 이전 버전보다 더 많은 쿼리를 처리할 수 있습니다. 이는 개발자가 프로그래밍하는 동안 더 많은 프롬프트를 제공할 수 있고 더 정확할 수 있음을 의미합니다.
+
+Code Llama 70B는 HumanEval 벤치마크에서 정확도 53%를 기록하여 GPT-3.5의 48.1%보다 나은 성능을 보였고 GPT-4에 대해 보고된 OpenAI 문서 (PDF) 의 67%에 더 가깝습니다 .
+
