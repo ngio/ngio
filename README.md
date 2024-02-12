@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/ngio/ngio/assets/3784942/6b775390-6b4c-42fe-a548-847fb87caa82)### Hi there 👋
 <img src="./img/python-logo-generic.svg"  >  
 
 <!--
@@ -70,6 +70,9 @@ Turtle 🐢 : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.
 <img src="https://github.com/ngio/jguery_not_yet/blob/master/javascript_Coding_style.png"  style="width:100px;"  >
 
 <br>
+
+한번은 실수고 두번은 생각이 없는 거고 세번은 습관이다
+
 
 [아무것도모른다_영화_강릉](https://www.youtube.com/watch?v=bC1pW9X8Qa8)
 
