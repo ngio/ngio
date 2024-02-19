@@ -53,6 +53,8 @@ https://shields.io/badges
 
 ___
 
+[제대로 포기하는 방법](https://github.com/ngio/ngio/blob/main/%EC%A0%9C%EB%8C%80%EB%A1%9C_%ED%8F%AC%EA%B8%B0%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95.txt)
+
 [ ⛰️⛰️⛰️ 한국 100대 명산 mountain ⛰️⛰️⛰️](https://www.forest.go.kr/kfsweb/kfi/kfs/foreston/main/contents/FmmntSrch/selectFmmntSrchList.do)
 
 [한문 공부 천자문_千字文_전문](../main/천자문_千字文_전문.txt)
