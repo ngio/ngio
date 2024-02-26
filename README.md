@@ -109,3 +109,7 @@ Turtle 🐢 : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.
 Dash.
 
 
+***
+<br>
+[kettlebell workout Full_body](https://darebee.com/workouts/full-body-kettlebell-workout.html)
+
