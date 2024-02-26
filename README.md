@@ -92,6 +92,8 @@ Turtle 🐢 : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.
 ***
 <br>
 
+“친절히 하세요. 당신이 만나는 모든 사람들은 각자 힘겨운 전투를 치루고 있습니다. Be kind, for everyone you meet is fighting a harder battle.” ― Plato 플라톤
+
 전문가란 모든 실패를 경험한 자!  2024-02-05
 
 안전한 길이 가장 위험한 길이다. 2023-07-17
