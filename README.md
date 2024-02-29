@@ -78,6 +78,8 @@ Turtle 🐢 : https://github.com/ngio/python_study/blob/main/Basic/Turtle_basic.
 
 <br>
 
+[인간관계에_대해서_차승원.md](/ngio/인간관계에_대해서_차승원.md)
+
 [한번은 실수고 두번은 생각이 없는 거고 세번은 습관이다](https://github.com/ngio/ngio/assets/3784942/6b775390-6b4c-42fe-a548-847fb87caa82)
 
 
