@@ -36,6 +36,8 @@ https://shields.io/badges
 <br><br>
 ---
 
+[Agile Principles(애자일 12가지 원칙)](https://medium.com/hgmin/agile-principles-%EC%95%A0%EC%9E%90%EC%9D%BC-12%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-d3f386bd9839)
+
 [TIOBE Index for February 2024](https://www.tiobe.com/tiobe-index/)
 
 [Apple Event - September 12](https://www.youtube.com/watch?v=ZiP1l7jlIIA&t=66s)
