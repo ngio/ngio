@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./img/python-logo-generic.svg"  >  
+<img src="./img/python-logo-generic.svg"  width="300px" >  
 
 <!--
 **ngio/ngio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 Positive thinking, moderation of food, regular exercise!
 
+[![ngio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngio)](https://github.com/ngio/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ngio&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
 
