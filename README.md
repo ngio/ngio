@@ -64,7 +64,7 @@ https://shields.io/badges
 
 ___
 
-[모르면 호구되는 인생의 진리 10가지](./모르면 호구되는 인생의 진리 10가지.md)
+[모르면 호구되는 인생의 진리 10가지](./모르면_호구되는_인생의_진리_10가지.md)
 
 [제대로 포기하는 방법](https://github.com/ngio/ngio/blob/main/%EC%A0%9C%EB%8C%80%EB%A1%9C_%ED%8F%AC%EA%B8%B0%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95.txt)
 
