@@ -5,7 +5,9 @@
 
 
  "Life is short (You need Python)"
-인생은 짧으니, 당신은 파이썬이 필요하다.   
+ 
+인생은 짧으니, 당신은 파이썬이 필요하다.
+
 - Bruce Eckel
 
 
