@@ -7,8 +7,8 @@
  "Life is short (You need Python)"
 인생은 짧으니, 당신은 파이썬이 필요하다.   
 - Bruce Eckel
- 
-![image](https://github.com/user-attachments/assets/6fa48845-3489-4878-9f1d-4912523a8139)
+  ![409452724-6fa48845-3489-4878-9f1d-4912523a8139](https://github.com/user-attachments/assets/abe9286c-4d30-40f9-a4e5-eaf20c1ec39e)
+
 
 
 
