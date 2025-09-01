@@ -12,6 +12,7 @@
 인생은 짧으니, 당신은 파이썬이 필요하다.
 
 - Bruce Eckel
+<img width="267" height="347" alt="image" src="https://github.com/user-attachments/assets/8f3bd31f-6d91-4526-aaf3-bc65f6074f91" />
 
  
 
