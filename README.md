@@ -1,3 +1,10 @@
+
+ "Life is short (You need Python)"
+ 
+인생은 짧으니, 당신은 파이썬이 필요하다.
+  + Bruce Eckel
+
+
 |  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=78F713&width=435&lines=%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8+%EC%82%AC%EA%B3%A0+%EC%9D%8C%EC%8B%9D%EC%9D%98+%EC%A0%88%EC%A0%9C+%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8+%EC%9A%B4%EB%8F%99)](https://git.io/typing-svg)  <br> Positive thinking, moderation of food, regular exercise!| <img src="./img/python-logo-generic.svg"  width="300px" > |
 |---|:---:|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngio&layout=compact)  |[![ngio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
@@ -7,11 +14,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ngio&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats) 
 
 
- "Life is short (You need Python)"
- 
-인생은 짧으니, 당신은 파이썬이 필요하다.
 
-- Bruce Eckel
 <img width="267" height="347" alt="image" src="https://github.com/user-attachments/assets/8f3bd31f-6d91-4526-aaf3-bc65f6074f91" />
 
  
